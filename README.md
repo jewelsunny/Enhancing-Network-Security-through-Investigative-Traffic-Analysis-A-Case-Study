@@ -1,6 +1,6 @@
 # Enhancing-Network-Security-through-Investigative-Traffic-Analysis-A-Case-Study
 
-##Abstract 
+## Abstract 
 
 In this time of increasing cyber risks, robust intrusion detection systems (IDS) are fundamentally necessary for protecting network systems. This master thesis compares two primary network intrusion detection resources to clarify their effectiveness, advantages, and boundaries. The investigation follows a thorough approach, including reviewing existing literature, practical experimentation, and assessing their performance. 
 The primary goal revolves around a deepercomprehension of the operational procedures, threat detection capacity, and scalability of the chosen IDS solutions. Through careful experimentation and scrutiny, this study investigates various elements such as detection accuracy, false favorable rates, the usage of resources, and resilience in varied network situations. Real-life data sets and contrived attack situations are harnessed to measure the proficiency of these tools in identifying both identified and fresh intrusion efforts. 
