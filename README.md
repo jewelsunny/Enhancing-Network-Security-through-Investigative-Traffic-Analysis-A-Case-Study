@@ -1,0 +1,2 @@
+# Enhancing-Network-Security-through-Investigative-Traffic-Analysis-A-Case-Study
+This thesis compares two network intrusion detection systems (IDS) through literature reviews and practical testing. It assesses detection accuracy, false-positive rates, resource usage, and scalability across attack scenarios, identifying each tool’s strengths and limitations to guide the development of more effective cybersecurity defenses.
